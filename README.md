@@ -52,17 +52,12 @@ Additional Python libraries may be used depending on the requirements of each ac
 
 ```text
 bioinformatics-notebook/
-├── notebooks/
-│   ├── needleman_wunsch.ipynb
-│   ├── smith_waterman.ipynb
+├── CNN Activity - Cats and Dogs Loading Dataset/
+│   ├── OLFINDO_JOPRISSE_Dogs_Cats_Loading_Dataset_and_CNN.ipynb
+│   ├── OLFINDO_JOPRISSE_MANUAL_HYPERPARAMETER_SELECTION_FORM.pdf
 │   └── ...
-├── data/
-│   └── ...
-├── images/
-│   └── ...
-├── docs/
-│   └── ...
-├── pdf/
+├── CNN Activity - Linear Filters/
+│   ├── OLFINDO_JOPRISSE_CNN_Linear_Filters_Assignment.ipynb
 │   └── ...
 ├── README.md
 └── LICENSE
